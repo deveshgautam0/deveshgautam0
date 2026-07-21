@@ -1,143 +1,21 @@
-<div align="center">
+# 💫 About Me:
+👋 About Me<br>Hi I'm Devesh! and I am a CSE student : <br>🔬 Ex-AI Research Intern at IISc Bengaluru — built Python automation pipelines for TCAD/semiconductor simulations (A+ grade)<br>🔬 Ex-AI Research Intern at CEFIPRA (Indo-French Centre) — built automation pipelines for research workflows (A+ grade)<br>💻 Full-stack developer — I design & build websites and Shopify stores end-to-end<br>🤖 I automate the boring stuff — lead generation, cold outreach, content creation, and repetitive workflows using AI<br>🛍️ Built & scaled kawaii404.com, a profitable independent apparel brand<br>🧹 Launched thelunax.com, my portfolio site<br>🛠️ Tech I work with: Python JavaScript TypeScript React Node.js FastAPI SQL<br>🧠 Currently exploring: AI agent architecture, Fullstack development, web development<br>📫 Reach me: devesh@thelunax.com
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3&width=1000" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=900&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=750&height=70&lines=DEVESH+GAUTAM" alt="name"/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/devesh.rn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deveshgautam0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/deveshgaut) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devesh@thelunax.com) 
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=800&color=39FF14&background=0D0D0D00&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Full-Stack+Developer;Shopify+%26+E-Commerce+Specialist;AI+Automation+%2B+Agent+Systems;AI+Content+%26+Ghostwriting" alt="roles"/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=deveshgautam0&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=deveshgautam0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=deveshgautam0&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3&width=1000" width="100%"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=deveshgautam0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-## `> ABOUT_ME`
-
-```diff
-+ Building full-stack products and AI-driven systems that do the work for you.
-```
-
-- 🖥️ &nbsp; **Full-stack development** — I design & build websites and Shopify stores end-to-end
-- 🛍️ &nbsp; **Shopify & e-commerce specialist** — custom builds, storefronts optimized to convert
-- 🤖 &nbsp; **AI automation** — lead generation, cold outreach, content creation, and repetitive workflows, automated
-- 🧠 &nbsp; **AI specialist** — agent architecture, LLM workflows, applied machine learning
-- ✍️ &nbsp; **AI content & ghostwriting** — content systems that sound human, at scale
-- 🔬 &nbsp; **Paid AI Research Intern** at the **Indian Institute of Science (IISc), Bengaluru** — one of India's top-ranked research institutes — built Python automation pipelines for TCAD/semiconductor simulations (A+ grade)
-- 🔬 &nbsp; **Paid AI Research Intern** at **CEFIPRA** (Indo-French Centre for the Promotion of Advanced Research) — built AI/ML automation pipelines with a cross-national research team (A+ grade)
-- ⚡ &nbsp; Currently exploring: AI agent architecture, full-stack & web development
-- 📫 &nbsp; Reach me: devesh@thelunax.com
-
-<br>
-
-## `> CONNECT`
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://www.instagram.com/devesh.rn/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/deveshgautam0/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff41)](https://x.com/deveshgaut)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:devesh@thelunax.com)
-
-</div>
-
-<br>
-
-## `> TECH_STACK`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41)
-![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41)
-![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=00ff41)
-![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00ff41)
-![C#](https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=csharp&logoColor=00ff41)
-![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff41)
-
-![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=00ff41)
-![React Native](https://img.shields.io/badge/react_native-000000?style=for-the-badge&logo=react&logoColor=00ff41)
-![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff41)
-![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=00ff41)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=00ff41)
-![WordPress](https://img.shields.io/badge/wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=00ff41)
-
-![Firebase](https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=00ff41)
-![Google Cloud](https://img.shields.io/badge/google_cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=00ff41)
-![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon-aws&logoColor=00ff41)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=00ff41)
-
-</div>
-
-<br>
-
-## `> AI / DATA TOOLKIT`
-
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
-![PyTorch](https://img.shields.io/badge/pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=00ff41)
-![LangChain](https://img.shields.io/badge/langchain-000000?style=for-the-badge&logo=langchain&logoColor=00ff41)
-![OpenAI](https://img.shields.io/badge/openai_agents-000000?style=for-the-badge&logo=openai&logoColor=00ff41)
-![Pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=00ff41)
-![NumPy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=00ff41)
-![Plotly](https://img.shields.io/badge/plotly-000000?style=for-the-badge&logo=plotly&logoColor=00ff41)
-![Matplotlib](https://img.shields.io/badge/matplotlib-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-
-</div>
-
-<br>
-
-## `> DESIGN_TOOLKIT`
-
-<div align="center">
-
-![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=00ff41)
-![Framer](https://img.shields.io/badge/framer-000000?style=for-the-badge&logo=framer&logoColor=00ff41)
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=00ff41)
-![Adobe Illustrator](https://img.shields.io/badge/illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=00ff41)
-![Adobe Premiere Pro](https://img.shields.io/badge/premiere_pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=00ff41)
-
-</div>
-
-<br>
-
-## `> STATS`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deveshgautam0&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00ff41&icon_color=00ff41&text_color=c9c9c9&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=deveshgautam0&theme=dark&hide_border=true&background=0D0D0D&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshgautam0&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00ff41&text_color=c9c9c9" height="165"/>
-</div>
-
-<br>
-
-<!-- Animated contribution snake — requires a one-time GitHub Action setup, see notes -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/deveshgautam0/deveshgautam0/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
-</div>
-
-<br>
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=deveshgautam0&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3&width=1000" width="100%"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
